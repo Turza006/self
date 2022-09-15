@@ -1,18 +1,22 @@
-<h1 align="center"> Probal Datta Turza </h1>
+<h1 align="center" style="color: gray"> Probal Datta Turza </h1>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=turza006)
 [![Github](https://img.shields.io/github/followers/turza006?label=Follow&style=social)](https://github.com/turza006)
 
 ### 👨🏻‍💻 &nbsp;About Me
-<p>I'm a professional software developer with several years of experience creating a variety of complex and scalable applications. I have a thorough understanding of any application project life cycle and am skilled in all aspects of creation, from project planning to gathering specifications to writing and testing code, developing documentation, and providing support.</p>
+<p style="color: oldlace">I'm a professional software developer with several years of experience creating a variety of complex and scalable applications. I have a thorough understanding of any application project life cycle and am skilled in all aspects of creation, from project planning to gathering specifications to writing and testing code, developing documentation, and providing support.</p>
 
-<img alt="Night Coding" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400" height="200" align="right"/>
+<img alt="Night Coding" src="animation_500_kxa883sd.gif" width="400" align="right"/>
+</br>
+</br>
+</br>
 
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![aws](https://img.shields.io/badge/-aws-05122A?style=flat&logo=amazon)&nbsp;
@@ -23,6 +27,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Material UI](https://img.shields.io/badge/-Material_UI-05122A?style=flat&logo=mui&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
