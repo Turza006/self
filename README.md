@@ -1,6 +1,6 @@
 <h1 align="center" style="color: gray"> Probal Datta Turza </h1>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=turza006)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=turza006.visitor-badge)
 [![Github](https://img.shields.io/github/followers/turza006?label=Follow&style=social)](https://github.com/turza006)
 
 ### 👨🏻‍💻 &nbsp;About Me
