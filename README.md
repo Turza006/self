@@ -1,6 +1,6 @@
 <h1 align="center" style="color: gray"> Probal Datta Turza </h1>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=turza006.visitor-badge)
+![Profile views](https://komarev.com/ghpvc/?username=turza006&label=Profile%20views&color=0e75b6&style=flat)
 [![Github](https://img.shields.io/github/followers/turza006?label=Follow&style=social)](https://github.com/turza006)
 
 ### 👨🏻‍💻 &nbsp;About Me
