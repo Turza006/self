@@ -57,7 +57,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=turza006&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 
-![Turza's G𝚒𝚝𝚑𝚞𝚋 G𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=turza006&theme=redical&hide_border=true&area=true)
+[![Turza's G𝚒𝚝𝚑𝚞𝚋 G𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=turza006&theme=tokyo-night)](https://github.com/turza006/github-readme-activity-graph)
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
