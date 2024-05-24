@@ -2,7 +2,11 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=turza006&label=Profile%20views&color=0e75b6&style=flat)
 [![Github](https://img.shields.io/github/followers/turza006?label=Follow&style=social)](https://github.com/turza006)
-
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hello%2C+There%F0%9F%91%8B;Turza+is+here%F0%9F%98%8E;It's+great+connecting+with+you+%F0%9F%98%87">
+  </a>
+</h1>
 ### 👨🏻‍💻 &nbsp;About Me
 <p style="color: oldlace">I'm a professional software developer with several years of experience creating a variety of complex and scalable applications. I have a thorough understanding of any application project life cycle and am skilled in all aspects of creation, from project planning to gathering specifications to writing and testing code, developing documentation, and providing support.</p>
 
