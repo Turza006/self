@@ -1,7 +1,13 @@
 <h1 align="center" style="color: gray"> Probal Datta Turza </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=turza006&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/probal-datta-turza/">
+    <img src="https://img.shields.io/badge/-ln-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+<a href="mailto:probaldattaturza@gmail.com">
+    <img src="https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=turza006&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://github.com/turza006">
     <img src="https://img.shields.io/github/followers/turza006?label=Follow&style=social" alt="GitHub followers" />
   </a>
